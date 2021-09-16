@@ -1,0 +1,6 @@
+mycode
+
+class SAmple{
+public static void main(String[]args)
+System.out.prinjtln("hello");
+}
